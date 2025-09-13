@@ -8,7 +8,7 @@
 
 
 ![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=dracula)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpyHenry&repo=github-readme-stats)](https://github.com/SpyHenry/github-readme-stats)
 
 ## 🛠 Habilidades e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
