@@ -7,8 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:henrybbandeira@gmail.com)
 
 
-[![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry)](https://github.com/SpyHenry/github-readme-stats)
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=dracula)
+
 
 ## 🛠 Habilidades e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
