@@ -1,4 +1,4 @@
-## Hi! I´m Henrique👋<br><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/developer.gif>
+## Hi! I´m Henrique👋<br><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif>
 
 :computer: Estudante de Ciência da Computação!
 
