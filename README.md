@@ -1,6 +1,19 @@
 ## Hi! I´m Henrique👋
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
 
 Sou apaixonado por tecnologia e venho aumentando meu portifólio!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Links para contato
 
