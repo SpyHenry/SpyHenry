@@ -1,10 +1,11 @@
-## Hi! I´m Henrique👋
+## Hi! I´m Henrique👋 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 :computer: Estudante de Ciência da Computação!
 
 ## Sobre mim
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-baptista-bandeira)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:henrybbandeira@gmail.com)
+
 
 
 ![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=dracula)
