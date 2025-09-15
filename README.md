@@ -16,6 +16,7 @@
 <p align="right"">
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/medal.gif>
 </p>
+
 ## 🛠 Habilidades e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
