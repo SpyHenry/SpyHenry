@@ -14,7 +14,7 @@
 ![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyHenry&layout=donut&show_icons=true&theme=dracula)](https://github.com/SpyHenry/github-readme-stats)
 <p align="right"">
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/medal.gif>
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif>
 </p>
 
 ## 🛠 Habilidades e Ferramentas
