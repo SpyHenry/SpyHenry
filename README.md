@@ -1,4 +1,4 @@
-## Hi! I´m Henrique👋
+## Hi! I´m Henrique👋 <p align="right"> <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif> </>
 
 <br><br>
 
