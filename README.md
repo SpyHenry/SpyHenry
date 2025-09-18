@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:henrybbandeira@gmail.com)
 
   
-![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=dracula)
+![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenr&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyHenry&layout=donut&show_icons=true&theme=dracula)](https://github.com/SpyHenry/github-readme-stats)
 
 
