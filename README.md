@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  | ![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=fff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyHenry&layout=donut&show_icons=true&theme=fff)](https://github.com/SpyHenry/github-readme-stats) |
+  | ![SpyHenry GitHub stats](https://github-readme-stats.vercel.app/api?username=SpyHenry&show_icons=true&theme=github_dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyHenry&layout=donut&show_icons=true&theme=github_dark)](https://github.com/SpyHenry/github-readme-stats) |
 | :-: | :-: |
 
 <br>
