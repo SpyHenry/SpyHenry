@@ -10,8 +10,8 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200">
 </div>
 
-<div align="center" width="100%">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo!)](https://git.io/typing-svg)
+<div align="center">
+![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%230078c2%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Welcome+to+my+profile%21%22%2C%22color%22%3A%22%230078c2%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D)
 </div>
 
 <br>
