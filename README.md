@@ -1,5 +1,7 @@
 <div align="center">
+  
   ## Hi! I´m Henrique👋!
+  
 </div>
 
 <br>
@@ -9,7 +11,7 @@
 </div>
 
 <div align="center" width="100%">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sou+estudante+de+Ciência+da+computação;Seja+bem+-+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo!)](https://git.io/typing-svg)
 </div>
 
 <br>
