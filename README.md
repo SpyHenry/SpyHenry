@@ -1,5 +1,4 @@
 <div align="center">
-
   ## Hi! I´m Henrique👋!
 </div>
 
@@ -9,9 +8,8 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200">
 </div>
 
-
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1B1504&width=900&size=21&center=true&lines=Sou+estudante+de+Ciência+da+Computação;Seja+bem+-+vindo!" alt="Typing SVG"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sou+estudante+de+Ciência+da+computação;Seja+bem+-+vindo!)](https://git.io/typing-svg)
 </div>
 
 <br>
