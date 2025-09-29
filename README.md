@@ -10,6 +10,8 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200">
 </div>
 
+<br>
+
 <div align="center">
 ![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello%2C+World%21%22%2C%22color%22%3A%22%230078c2%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22Welcome+to+my+profile%21%22%2C%22color%22%3A%22%230078c2%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D)
 </div>
